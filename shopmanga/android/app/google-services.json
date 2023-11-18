@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987661047777",
+    "project_id": "app-ct48401",
+    "storage_bucket": "app-ct48401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987661047777:android:aaf819af3819ba979824a0",
+        "android_client_info": {
+          "package_name": "com.example.shopmanga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwCIIS4A6jiV2gQDwn_rycCuPEnewzok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
